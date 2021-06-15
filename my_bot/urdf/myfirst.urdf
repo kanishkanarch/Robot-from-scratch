@@ -1,3 +1,4 @@
+<!--Comment-->
 <?xml version="1.0"?>
 <robot name="my_bot">
     <material name="orange">
@@ -15,7 +16,7 @@
             <geometry>
                 <box size="0.6 0.2 0.1"/>
             </geometry>
-            <material name="blue"/>
+            <material name="orange"/>
         </visual>
     </link>
     <link name="right_wheel">
